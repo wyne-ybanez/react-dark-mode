@@ -1,0 +1,16 @@
+/* 
+Global Variables 
+*/
+
+.dark-theme {
+    --clr-bcg: #282c35;
+    --clr-font: #fff;
+    --clr-primary: rgb(20, 145, 234);
+}
+
+.light-theme {
+    --clr-bcg: #fff;
+    --clr-font: #282c35;
+    --clr-primary: #d23669;
+}
+

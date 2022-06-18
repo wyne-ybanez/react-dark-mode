@@ -2,10 +2,10 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 
 // CSS imports
-import './variables.css'
-import './navbar.css'
-import './article.css'
-import './index.css'
+import './css/variables.css'
+import './css/navbar.css'
+import './css/article.css'
+import './css/index.css'
 
 // App import
 import App from './App'
